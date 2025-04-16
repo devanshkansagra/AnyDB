@@ -1,5 +1,5 @@
 {
-  "name": "anydb",
+  "name": "@devanshkansagra/anydb",
   "version": "0.0.0",
   "description": "A unified Node.js database connector supporting both SQL and NoSQL databases with a simple, consistent API for CRUD operations.",
   "main": "index.js",
