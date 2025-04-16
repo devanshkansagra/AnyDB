@@ -1,0 +1,16 @@
+{
+  "name": "anydb",
+  "version": "0.0.0",
+  "description": "A unified Node.js database connector supporting both SQL and NoSQL databases with a simple, consistent API for CRUD operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Devansh Kansagra",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
